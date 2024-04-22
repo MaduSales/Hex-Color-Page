@@ -1,5 +1,8 @@
 # Hex-Color-Page
-![Preview](https://github.com/MaduSales/Hex-Color-Page/assets/166547195/d853c3cc-7242-4903-8a31-9a9c46aaff24)
+
+https://github.com/MaduSales/Hex-Color-Page/assets/166547195/65035b9d-649d-4822-93f1-7fd2023a4d3b
+
+
 
 Projeto com HTML e CSS de uma página que gera cores com códigos hexadecimais aleatórios ao clicar no botão
 
